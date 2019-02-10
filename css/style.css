@@ -45,9 +45,9 @@ header{
 }
 .text-1{
     display: block;
-    font-weight: 400;
-    font-size: 60px;
-    letter-spacing: 30px;
+    font-weight: 600;
+    font-size: 40px;
+    letter-spacing: 18px;
     animation-name: moveInLeft;
     animation-duration: 2s;
     animation-timing-function: ease-out;
@@ -56,8 +56,8 @@ header{
 .text-2{
     display: block;
     font-weight: 700;
-    font-size: 20px;
-    letter-spacing: 17.4px;
+    font-size: 18px;
+    letter-spacing: 12.4px;
     animation: moveInRight 2s ease-out;
     
 }
